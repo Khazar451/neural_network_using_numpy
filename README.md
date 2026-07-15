@@ -30,7 +30,7 @@ Input (2)  →  Hidden 1 (64, ReLU)  →  Hidden 2 (32, ReLU)  →  Output (1, S
 | Hidden 1 → Hidden 2 | `(32, 64)` | `(32, 1)` |
 | Hidden 2 → Output | `(1, 32)` | `(1, 1)` |
 
-## 🔬 Mathematical Foundation
+##  Mathematical Foundation
 
 ### Forward Propagation
 
