@@ -62,7 +62,7 @@ $$W \leftarrow W - \alpha \cdot dW \qquad b \leftarrow b - \alpha \cdot db$$
 ## Results
 
 <p align="center">
-  <img src="decision_boundary.png" alt="Decision boundary learned by the MLP — training data (left) and unseen test data (right)" width="900">
+  <img width="1831" height="891" alt="image" src="https://github.com/user-attachments/assets/70c6f9f3-578e-4cba-851b-51fe482c0a1b" />
 </p>
 
 > The network learns a **circular decision boundary** from scratch. Left: training data. Right: unseen test data — proving generalization, not memorization.
